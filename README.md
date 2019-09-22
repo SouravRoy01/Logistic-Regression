@@ -1,0 +1,2 @@
+“Social_Network_Ads.csv” is a dataset about how effective the ad on social media are. The data has three variables (Gender, Age, and Estimated Salary) and one response variable (Purchased). This response variable has two value 0 (no purchased) and 1 (purchased successfully).
+A logistic Regression model is created with this data to predict if a user will buy the product on seeing the ad, based on age and estimated salary
